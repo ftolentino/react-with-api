@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Description
+React with APIs Epicodus lesson
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
